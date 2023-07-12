@@ -78,12 +78,12 @@ header {
     display: flex;
     align-items: center;
     position: fixed;
-    left: 80px;
+    left: 20px;
     z-index: 99999;
 }
 .chatbot-area {
     float: right;
-    right: 80px;
+    right: 10px;
     left: auto;
 }
 .user-area img, .chatbot-area img {
